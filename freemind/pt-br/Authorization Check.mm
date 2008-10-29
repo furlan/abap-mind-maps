@@ -3,11 +3,11 @@
 <node CREATED="1224442671062" ID="Freemind_Link_1958120075" MODIFIED="1224443848078" TEXT="Authorization Check">
 <node CREATED="1224442919859" ID="_" MODIFIED="1224442922718" POSITION="right" TEXT="Descri&#xe7;&#xe3;o">
 <node CREATED="1224442923625" ID="Freemind_Link_1305707064" MODIFIED="1224443014000" TEXT="Dados cr&#xed;ticos e partes do escopo funcional do sistema SAP devem ser protegidos de acessos n&#xe3;o autorizados"/>
-<node CREATED="1224443089109" ID="Freemind_Link_1108667558" MODIFIED="1224443837687" TEXT="Authorization Objects podem ser definidos com object classes"/>
+<node CREATED="1224443089109" ID="Freemind_Link_1108667558" MODIFIED="1225240187884" TEXT="Authorization Objects podem ser definidos com authoriation object"/>
 <node CREATED="1224443746265" ID="Freemind_Link_1964557764" MODIFIED="1224443833796" TEXT="Authorization podem ser integrados dentro dos registros requeridos user master records resultado em um authorization profile"/>
-<node CREATED="1224443853718" ID="Freemind_Link_767351034" MODIFIED="1224443943000" TEXT="Muitos authorization diferentes ( para a integracao dentro de um diferente user master records) pode ser criados para um authorization object"/>
-<node CREATED="1224444019484" ID="Freemind_Link_959734221" MODIFIED="1224444239000" TEXT="E, tempo de execu&#xe7;&#xe3;o, pode-se usar o comando  AUTHORIT-CHECK para verificar se o usu&#xe1;rio atual tem permissao para executar esta funcao em seu user master record&#xa;Dependendo do check result (sy-subrc) o prcessamento continua ou n&#xe3;o. Se o sy-subrc = 0 ent&#xe3;o o processamento continua."/>
-<node CREATED="1224444297687" ID="Freemind_Link_1801859701" MODIFIED="1224444499578" TEXT="a defini&#xe7;&#xe3;o e implementa&#xe7;&#xe3;od e um authorization check &#xe9; reposonsabilidade do desenvolvedor assim como a responsabilidade de configura&#xe7;&#xe3;o do user master records &#xe9; do administrador"/>
+<node CREATED="1224443853718" ID="Freemind_Link_767351034" MODIFIED="1225240204849" TEXT="Muitos authorization diferentes (para a integracao dentro de um diferente user master records) pode ser criados para um authorization object"/>
+<node CREATED="1224444019484" ID="Freemind_Link_959734221" MODIFIED="1225240242719" TEXT="E, tempo de execu&#xe7;&#xe3;o, pode-se usar o comando  AUTHORITY-CHECK para verificar se o usu&#xe1;rio atual tem permissao para executar esta funcao em seu user master record&#xa;Dependendo do return code (sy-subrc) o prcessamento continua ou n&#xe3;o. Se o sy-subrc = 0 ent&#xe3;o o processamento continua."/>
+<node CREATED="1224444297687" ID="Freemind_Link_1801859701" MODIFIED="1225240265966" TEXT="a defini&#xe7;&#xe3;o e implementa&#xe7;&#xe3;o e um authorization check &#xe9; reposonsabilidade do desenvolvedor assim como a responsabilidade de configura&#xe7;&#xe3;o do user master records &#xe9; do time de Basis"/>
 </node>
 <node CREATED="1224443582562" ID="Freemind_Link_275425763" MODIFIED="1224443602500" POSITION="left" TEXT="ACTVT Possible Values">
 <node CREATED="1224443610890" ID="Freemind_Link_1053395514" MODIFIED="1224443619265" TEXT="01 - Create"/>
