@@ -28,15 +28,15 @@
 <icon BUILTIN="forward"/>
 <node CREATED="1224413965125" ID="Freemind_Link_1323857520" MODIFIED="1224414014843" TEXT="Deve ser definido somente quando a sua sem&#xe2;ntica n&#xe3;o corresponder a de outros objetos globais"/>
 </node>
-<node COLOR="#ff0000" CREATED="1224409734031" FOLDED="true" ID="Freemind_Link_1664294742" MODIFIED="1224409750296" TEXT="GLOBAL">
+<node COLOR="#ff0000" CREATED="1224409734031" ID="Freemind_Link_1664294742" MODIFIED="1224409750296" TEXT="GLOBAL">
 <icon BUILTIN="forward"/>
-<node COLOR="#ff0000" CREATED="1224409531921" FOLDED="true" ID="Freemind_Link_1999115132" MODIFIED="1224409607093" TEXT="ABAP Dictionary">
+<node COLOR="#ff0000" CREATED="1224409531921" ID="Freemind_Link_1999115132" MODIFIED="1224409607093" TEXT="ABAP Dictionary">
 <arrowlink DESTINATION="Freemind_Link_1999115132" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Freemind_Arrow_Link_1544227386" STARTARROW="None" STARTINCLINATION="0;0;"/>
 <icon BUILTIN="messagebox_warning"/>
 <icon BUILTIN="forward"/>
 <node CREATED="1224409675171" ID="Freemind_Link_1135747815" MODIFIED="1224409719625" TEXT="Quando um valor &#xe9; definido no ABAP Dictionary &#xe9; chamado de GLOBAL e pode ser usado em todos o Sistema"/>
 </node>
-<node COLOR="#ff0000" CREATED="1224413572281" FOLDED="true" ID="Freemind_Link_1079018670" MODIFIED="1224413602562" TEXT="Advantages">
+<node COLOR="#ff0000" CREATED="1224413572281" ID="Freemind_Link_1079018670" MODIFIED="1224413602562" TEXT="Advantages">
 <icon BUILTIN="messagebox_warning"/>
 <icon BUILTIN="forward"/>
 <node CREATED="1224413627718" ID="Freemind_Link_1104989197" MODIFIED="1224413695046" TEXT="Aumenta a consist&#xea;ncia e a reusabilidade e reduz a quantidade de manuten&#xe7;&#xe3;o"/>
